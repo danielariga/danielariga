@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielariga&label=Profile%20views&color=0e75b6&style=flat" alt="leulyk" /> </p>
 I’m Daniel Ariga, and I welcome you to my profile. 👋 I am a software engineer specializing in backend development, with a strong focus on building scalable and efficient applications. I enjoy working with variety of tools and cloud technologies to enhance deployment and manage infrastructure effectively. In addition to my backend expertise, I have a passion for front-end development, allowing me to create full-stack solutions that improve user experiences. My goal is to build robust and maintainable systems that address real-world problems and make a positive impact. Feel free to connect with me to discuss exciting opportunities or collaborations. Let’s create something amazing together!
-### Connect with me
 
+### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ariga-a9697781/)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/zooda.force)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fantashakur)
