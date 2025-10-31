@@ -1,4 +1,4 @@
-## Hi there 👋 
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Daniel+Ariga;I+Am+A+Software+Engineer)](https://git.io/typing-svg)
 
 [![committers.top badge](https://user-badge.committers.top/kenya/danielariga.svg)](https://user-badge.committers.top/kenya/danielariga)
 
