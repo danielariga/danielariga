@@ -1,4 +1,9 @@
 ## Hi there 👋
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ariga-a9697781/)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/zooda.force)
+
 
 <!--
 **danielariga/danielariga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
