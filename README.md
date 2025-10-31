@@ -45,8 +45,6 @@ I’m Daniel Ariga, and I welcome you to my profile. 👋 I am a software engine
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=danielariga&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=mo7amedgom3a&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 **danielariga/danielariga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
