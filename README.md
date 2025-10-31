@@ -37,6 +37,9 @@ I’m Daniel Ariga, and I welcome you to my profile. 👋 I am a software engine
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+
 
 
 ## 📊 GitHub Stats
