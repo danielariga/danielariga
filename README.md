@@ -7,13 +7,8 @@ I’m Daniel Ariga, and I welcome you to my profile. 👋 I am a software engine
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/zooda.force)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://https://x.com/fantashakur)
 
-## 📞 Contact
-- **Phone:** +254 704 404 059
-- **Email:** [arigamaster@gmail.com](mailto:kimmvickkgmail.com)
+## 💻 Tech Stack:
 
-## 💻 Tech Stack
-
-### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
