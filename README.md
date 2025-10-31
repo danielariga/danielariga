@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ariga-a9697781/)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/zooda.force)
 
-# Hi there, I'm Victor Kimutai! 👋
+# I'm Daniel Ariga! 👋
 
 ## 🌐 Socials
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://https://x.com/fantashakur)
